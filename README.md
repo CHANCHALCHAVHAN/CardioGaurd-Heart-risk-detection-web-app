@@ -102,3 +102,9 @@ This project is released under the MIT License.
 ---
  
 # say the word — we’ll refine it.
+
+<img width="1920" height="1080" alt="Screenshot 2025-11-23 101815" src="https://github.com/user-attachments/assets/4567a473-f719-43e0-b488-ec28b9b505b8" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-11-23 101843" src="https://github.com/user-attachments/assets/81ea83b7-63c5-4aa1-94a1-e2b26c873994" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-11-23 102143" src="https://github.com/user-attachments/assets/c1e1ea4f-ff93-45b9-ad19-d066dea6124b" />
